@@ -1,0 +1,9 @@
+Objectives
+
+The objectives of the Foundation are for the benefit of the community, humanity, and ecological viability on this and any other planet supporting life as a whole to:
+
+1. empower individuals to control their data, and have freedom over such data, and related infrastructure, by creating, maintaining, and promoting openly standardised, secure, decentralized and distributed protocols, software, hardware, and networks, open to all, and available to the public for no charge; and build and develop an appropriate governance model for Naamio artifacts and projects through the Foundation, in order to drive the adoption of Naamio protocols, and complementary open protocols, as loosely interconnected and federated standards, unemcumbered from any properietary intellectual property and / or technological patents, minimising fragmentation (whilst encouraging experimentation), maximising speed of development, and prioritising the long-term success and growth of the overall protocols over the commercial concerns of an individual person or persons;
+
+2. build and develop an appropriate governance model for Naamio projects through the Foundation, in order to drive the adoption of Naamio projects as a single global federation, an open standard unencumbered from any proprietary intellectual property and/or software patents, minimising fragmentation (whilst encouraging experimentation), maximising speed of development, and prioritising the long-term success and growth of the overall network over the commercial concerns of an individual person or persons.
+
+The objectives shall be supported by the Guiding Principles.

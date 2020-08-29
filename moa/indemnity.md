@@ -1,0 +1,3 @@
+# Indemnity
+
+Every Guardian or other officer or auditor of the Foundation may be indemnified out of the assets of the Foundation (at the Foundation’s discretion) against any liability incurred by them in that capacity in defending any proceedings, whether civil or criminal, in which judgment is given in their favour or in which they are acquitted or in connection with any application in which relief is granted to them by the court from liability for negligence, default, breach of duty or breach of trust in relation to the affairs of the Foundation.
