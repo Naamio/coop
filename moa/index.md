@@ -12,7 +12,7 @@
 10. [Liability of Members](./liability.md)
 11. [Meetings of Members](./meetings.md)
 12. [Guardians](./guardians.md)
-13. [Conflicts](./conficts.md)
+13. [Conflicts](./conflicts.md)
 14. [Administration](./administration.md)
 15. [Records and Accounts](./records.md)
 16. [Communications](./communications.md)

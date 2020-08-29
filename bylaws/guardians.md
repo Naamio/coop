@@ -18,7 +18,7 @@ The Guardians, in exercising the powers of the Foundation, also have the ability
 
 ## Summary of Guardian Responsibilities
 
-The Guardians must keep each other honest, providing a ‘checks and balances’ mechanism between each other to ensure that all Guardians act in the best interests of the protocols, projects, software, hardware, artefacts, and ecosystem.
+The Guardians must keep each other honest, providing a ‘checks and balances’ mechanism between each other to ensure that all Guardians act in the best interests of the protocols, projects, software, hardware, artifacts, and ecosystem.
 
 The Guardians may dismiss members who are in serious breach of the Guiding Principles.
 

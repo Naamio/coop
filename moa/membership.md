@@ -16,6 +16,8 @@ No person shall be admitted as a Member of the Foundation unless they are approv
 
 Every person who wishes to become a Member shall deliver to the Foundation an application for membership in such form (and containing such information) as the Guardians require and executed by them.
 
+The Guardians may invite a person for Membership whilst waiving Membership feels, either as a one-time waiver or a recurring waiver. If such an invite is accepted, all Members must approve of the fee waiver in a Special Resolution.
+
 Membership is not transferable to anyone else.
 
 Membership is terminated if the Member concerned:
