@@ -159,15 +159,3 @@ In no event unless required by applicable law or agreed to in writing will any c
 ## 12\. No Trademark Waiver
 
 Trademark rights are not licensed under this public license.
-
-## How to apply the Naamio Technology License Version 0.1
-
-Attach the following boilerplate notice, with the fields enclosed by parentheses replaced with your own identifying information. If you want to include any optional provisions in your license, include the emojis corresponding to those provisions at the end of your license version number.
-
-Copyright (YEAR) (COPYRIGHT HOLDER) Naamio Technology License Version 0.1
-
-If your project has an interactive mode, you should have it provide the name and version number of the Naamio Technology when it starts up, and provide a link to where the full license can be found.
-
-In the repository for your project, include a full copy of the license, including these instructions. If you're working from a [static document version of the license](https://naamio.dev/technology-license.txt).
-
-For more information or to find new versions of this license, check [naamio.dev/technology-license](https://naamio.dev/technology-license.txt).

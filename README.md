@@ -38,9 +38,9 @@ The cooperative will set out a code-of-conduct within its articles of associatio
 
 The following include the complete list of articles required for incorporation of the cooperative:
 
- - [Rules and Bylaws](./bylaws/index.md)
- - [Memorandum of Association](./moa/index.md)
- - [License](./LICENSE.md)
+ - [Rules and Bylaws](https://github.com/Naamio/bylaws/blob/trunk/index.md)
+ - [Memorandum of Association](https://github.com/Naamio/articles/blob/trunk/index.md)
+ - [License](https://github.com/Naamio/technology-license/blob/trunk/LICENSE.md)
 
 ## Relation to Naamio Cloud
 
